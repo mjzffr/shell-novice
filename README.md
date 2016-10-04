@@ -1,6 +1,8 @@
 shell-novice
 ============
 
+(For for ped day workshop)
+
 An introduction to the Unix shell for people who have never used the command line before.
 Please see <https://swcarpentry.github.io/shell-novice/> for a rendered version of this material,
 [the lesson template documentation][lesson-example]
